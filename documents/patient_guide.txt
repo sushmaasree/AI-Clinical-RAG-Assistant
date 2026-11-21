@@ -1,0 +1,25 @@
+# AI Clinic – Patient Guide
+
+## Patient Services
+Patients can use the clinic system to manage appointments and access permitted healthcare information.
+
+## Appointments
+Patients can book appointments and view their appointment details.
+They can contact clinic staff for help with cancellations or rescheduling.
+
+## Medical Records
+Patients can view their own permitted medical information through the clinic system.
+
+## Follow-up Support
+Patients can check follow-up information and contact the clinic if they have questions.
+
+## Billing
+Patients can view permitted billing information and contact the billing department for payment-related queries.
+
+## Medical Safety
+This assistant provides general healthcare information only.
+It does not diagnose conditions or prescribe medicines.
+Always consult a qualified doctor for medical advice.
+
+## Access Control
+Patients can access only their own permitted information.

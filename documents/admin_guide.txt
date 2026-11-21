@@ -1,0 +1,18 @@
+# AI Clinic – Admin Guidelines
+
+## Admin Responsibilities
+Administrators manage clinic operations, user accounts, departments, and overall system activities.
+
+## User Management
+Admins can manage patient, doctor, and staff accounts.
+They can review user information and manage access permissions.
+
+## Clinic Operations
+Admins can monitor appointments, department activities, billing summaries, and patient service requests.
+
+## Reports
+Admins can review operational reports and clinic performance summaries.
+
+## Access Control
+Administrative information is restricted to authorized administrators.
+Other roles must not access admin-only information.

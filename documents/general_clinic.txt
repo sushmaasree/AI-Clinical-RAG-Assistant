@@ -1,0 +1,21 @@
+# AI Clinic – General Information
+
+## About the Clinic
+The AI Clinic provides healthcare services, appointment management, patient support, and clinical coordination.
+
+## Appointments
+Patients can book appointments with available doctors.
+Appointments include the appointment date, time, doctor, department, and appointment status.
+Patients should contact clinic staff if they need to reschedule or cancel an appointment.
+
+## Patient Support
+Clinic staff help patients with registration, appointment scheduling, billing queries, and general service requests.
+
+## Billing
+The clinic provides billing information and supports different payment methods.
+Patients can contact the billing department for payment-related questions.
+
+## Medical Safety
+This assistant provides general information only.
+It does not diagnose diseases, prescribe medicines, or replace a qualified healthcare professional.
+Patients should consult a doctor for medical concerns.

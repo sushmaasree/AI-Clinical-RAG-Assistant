@@ -1,0 +1,20 @@
+# AI Clinic – Doctor Guidelines
+
+## Doctor Responsibilities
+Doctors provide medical consultations, review patient information, and manage clinical records.
+
+## Appointments
+Doctors can view their assigned appointments and appointment schedules.
+
+## Clinical Records
+Doctors can review relevant patient clinical records and document consultation details.
+
+## Follow-ups
+Doctors can review follow-up requirements and provide follow-up instructions to patients.
+
+## Medical Safety
+Doctors must use professional medical judgment when making clinical decisions.
+AI-generated information is only supportive and must not replace professional judgment.
+
+## Access Control
+Clinical information is restricted to authorized doctors and other permitted users.

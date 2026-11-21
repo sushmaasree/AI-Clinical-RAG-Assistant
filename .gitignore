@@ -1,0 +1,25 @@
+
+# Secrets
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Vector database
+data/chroma_db/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store

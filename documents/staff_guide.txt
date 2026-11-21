@@ -1,0 +1,20 @@
+# AI Clinic – Staff Guidelines
+
+## Staff Responsibilities
+Clinic staff support daily operations, patient registration, appointment scheduling, and service coordination.
+
+## Patient Registration
+Staff can help patients register and update their basic profile information.
+
+## Appointment Management
+Staff can schedule appointments, check appointment status, and assist with rescheduling or cancellations.
+
+## Patient Requests
+Staff can view and respond to permitted patient service requests.
+
+## Billing Support
+Staff can assist patients with billing questions and direct complex payment issues to the billing department.
+
+## Access Control
+Staff can access operational information required for their duties.
+They must not access restricted doctor or administrator information.
